@@ -9,7 +9,7 @@ The fiber optic transmitter is shown in the figure below and includes the follow
 1. Power and data connector (USB) – for communication with a computer.  
 2. Fiber optic connector with an ST-type socket.
 
-![Fiber Optic Transmitter](Obsluga_folder/Nadajnik%201.jpeg)
+![Fiber Optic Transmitter](images/Nadajnik%201.jpeg)
 
 ### Startup and Configuration
 
@@ -20,11 +20,11 @@ To start the transmitter:
 
 In the top-left corner of the Arduino IDE, there is a device selection menu – click it and choose **"Arduino NANO"**, as shown below:
 
-![Device Selection](Obsluga_folder/ide1.png)
+![Device Selection](images/ide1.png)
 
 Then open the **Serial Monitor**, located in the top bar:
 
-![Opening Serial Monitor](Obsluga_folder/IDE2.png)
+![Opening Serial Monitor](images/IDE2.png)
 
 Once the Serial Monitor is open, set the following:
 
@@ -47,7 +47,7 @@ The fiber optic receiver is shown in the figures below. It includes:
 2. Fiber optic connector with an ST-type socket.
 3. LCD display.
 
-![Receiver – Front](Obsluga_folder/Odbiornik1.jpeg) ![Receiver – Back](images/Odbiornik2.jpeg)
+![Receiver – Front](images/Odbiornik1.jpeg) ![Receiver – Back](images/Odbiornik2.jpeg)
 
 ### Startup
 
