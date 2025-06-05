@@ -31,9 +31,9 @@ Once the Serial Monitor is open, set the following:
 - **Baud Rate**: `9600 baud`  
 - **Line Ending**: `"NEW LINE"` (`\n` – newline character)
 
-![Baud Rate Selection](Obsluga_folder/IDE3.png)
+![Baud Rate Selection](images/IDE3.png)
 
-![Line Ending Selection](Obsluga_folder/ide5.png)
+![Line Ending Selection](images/ide5.png)
 
 ---
 
@@ -47,7 +47,7 @@ The fiber optic receiver is shown in the figures below. It includes:
 2. Fiber optic connector with an ST-type socket.
 3. LCD display.
 
-![Receiver – Front](Obsluga_folder/Odbiornik1.jpeg) ![Receiver – Back](Obsluga_folder/Odbiornik2.jpeg)
+![Receiver – Front](Obsluga_folder/Odbiornik1.jpeg) ![Receiver – Back](images/Odbiornik2.jpeg)
 
 ### Startup
 
@@ -62,7 +62,7 @@ If the receiver starts correctly, the LCD will display:
 Waiting for a msg.
 ```
 
-![Receiver Waiting](Obsluga_folder/LCD-1.jpeg)
+![Receiver Waiting](images/LCD-1.jpeg)
 
 ---
 
@@ -76,11 +76,11 @@ If the transmitter is correctly configured, the following message will appear:
 Waiting for input...
 ```
 
-![Waiting for Input](Obsluga_folder/ide4.png)
+![Waiting for Input](images/ide4.png)
 
 You can enter your message in the `"Messeage"` text field, shown below:
 
-![Message Input Field](Obsluga_folder/Messeage.png)
+![Message Input Field](images/Messeage.png)
 
 For example, you can type:
 
@@ -88,8 +88,8 @@ For example, you can type:
 Hello World!
 ```
 
-![Example Transmission](Obsluga_folder/hello.png)
+![Example Transmission](images/hello.png)
 
 The transmitted message will be displayed on the receiver’s LCD:
 
-![Message Displayed](Obsluga_folder/LCD-2.jpeg)
+![Message Displayed](images/LCD-2.jpeg)
