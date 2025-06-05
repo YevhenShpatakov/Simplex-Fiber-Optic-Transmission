@@ -1,4 +1,20 @@
-# USER MANUAL
+# Introduction
+
+This project utilizes readily available optoelectronic components: the **HFBR-1414Z** transmitter and **HFBR-2412Z** receiver, both operating at approximately **820 nm**. Data is transmitted over optical fiber terminated with **ST connectors**.
+
+**How it works**:
+- Text data is sent from a **computer** via **serial interface** to an **Arduino Nano** connected to the transmitter.
+- The **optical signal** travels through fiber to the **receiver**, connected to another Arduino Nano.
+- The data is then displayed on a **16x2 LCD module**.
+
+**Key features**:
+- Powered entirely via **USB**
+- Minimal assembly
+- Ideal hands-on intro to **fiber optic systems**
+
+---
+
+# User Manual
 
 ## Transmitter
 
